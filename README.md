@@ -7,7 +7,7 @@
 **Things I'm very interested in:**
 - languages
   - C, ASM, Verilog
-  - Objective-C, Ruby
+  - Crystal, Ruby, Objective-C
   - JavaScript, TypeScript
 - embedded systems, Z80/6502, ATMEGA μcs, ARM64
 - graphics rasterization, windowing/gui toolkits
