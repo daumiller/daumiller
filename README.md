@@ -45,6 +45,6 @@ Some things that get me ranting:
 
 ## 💬 May I suggest?
 
-**Objective-C** -- Consider giving it a whirl! 🥺🙏
+**Objective-C**! 🥺🙏
 
 ---
