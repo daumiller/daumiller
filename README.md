@@ -39,7 +39,6 @@ Some things that get me ranting:
 - glibc and glib
 - planned/forced obsolescence
 - bloat keeping pace with (or being required by) hardware advances
-- web devs poorly re-solving problems that were solved natively long ago
 
 ---
 
