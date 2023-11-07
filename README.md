@@ -1,49 +1,45 @@
-![STOP! Hibari-kun!](stop-hibari-kun.gif)
+<!-- horrible abuse of markdown; but need to make github shiny 😞 -->
 
----
+<p width="100%" align="center">
+<img src="animations/stop-hibari-kun.gif">
+</p>
 
-## 📖 Repositories
-
-Welcome to my source dump, where projects that I've lost interest in (dedicating the vanishingly small amount of free time that I have to) come to await my retirement.
-
-There are a handful of libraries here that were wrote for external use; but they're scattered among many prototype applications that are definitely not of distribution/general-use quality.
-
----
-
-## ⭐️ Interests
-
-There are so many projects that I wish I had the time to work on; but I'm currently most interested in working on simple systems. -- Simple as in not convoluted messes of spaghetti, protoduction, and bloat; but easy to understand components, with unambiguous impelmentations and interworking. The kinds of things too rarely seen in commercial development (or in many of my side projects 😅).
-
-Some more specific things I enjoy working on:
-- processors (basic designs, soft-core/fpga)
-- SBCs for 8/16/early 32 bit systems (Z80/6502/65816/M68K)
-- MCU boards (building AVR; using AVR/ARM)
-- mechanical keyboards (everything except interfacing USB 🙄)
-- programming languages (❤️ languages!)
-- operating systems & their APIs (a: linux-kernel based, b: non-POSIX)
-- GFX/GUI/Widget toolkits ⚙️ (I've started waaay too many of these)
-- RAD IDEs (👈 peak productivity here)
-- CAD design & 3D printing
-- vanilla JS (and other simplifactions of convoluted web stacks)
-
-Some itches I've yet to fully scratch:
-- speech synthesis (physically modelled)
-- compression (I've got this idea 😆)
-- text/hex editors
-- HTML alternatives (ex: Gemini/Spartan/Gopher)
-
-Some things that get me ranting:
-- corporatization of the internet 💰
-- the C language standard
-- the FHS, LSB, and POSIX in general
-- glibc and glib
-- planned/forced obsolescence
-- bloat keeping pace with (or being required by) hardware advances
-
----
-
-## 💬 May I suggest?
-
-**Objective-C**! 🥺🙏
-
----
+<!-- bottom-up stack -->
+<p width="100%" align="center">
+<img src="https://img.shields.io/badge/verilog-EED5C2.svg?style=for-the-badge&logo=velog&logoColor=black" />
+<img src="https://img.shields.io/badge/kicad-EED5C2.svg?style=for-the-badge&logo=kickstarter&logoColor=black" />
+<img src="https://img.shields.io/badge/fusion%20360-EED5C2.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/x86-EEBDC0.svg?style=for-the-badge&logo=intel&logoColor=black" />
+<img src="https://img.shields.io/badge/68k-EEBDC0.svg?style=for-the-badge&logo=motorola&logoColor=black" />
+<img src="https://img.shields.io/badge/avr-EEBDC0.svg?style=for-the-badge&logo=mega&logoColor=black" />
+<img src="https://img.shields.io/badge/riscv-EEBDC0.svg?style=for-the-badge&logo=risc-v&logoColor=black" />
+<img src="https://img.shields.io/badge/z80-EEBDC0.svg?style=for-the-badge&logo=zig&logoColor=black" />
+<img src="https://img.shields.io/badge/6502-EEBDC0.svg?style=for-the-badge&logo=monzo&logoColor=black" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/asm-EDA4BD.svg?style=for-the-badge&logo=appian&logoColor=black" />
+<img src="https://img.shields.io/badge/c-EDA4BD.svg?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/zig-EDA4BD.svg?style=for-the-badge&logo=zig&logoColor=black" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/linux-CE8BAA?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/macos-CE8BAA?style=for-the-badge&logo=apple&logoColor=white" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/go-BF7FA0.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/obj--c-BF7FA0.svg?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/crystal-BF7FA0.svg?style=for-the-badge&logo=crystal&logoColor=white" />
+<img src="https://img.shields.io/badge/c%23-BF7FA0.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/java-BF7FA0.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/ruby-AF7297.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-AF7297.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-AF7297.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/rails-A0668D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/openapi-A0668D.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/graphql-A0668D.svg?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/react-A0668D.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/preact-A0668D.svg?style=for-the-badge&logo=react&logoColor=white" />
+</p><p width="100%" align="center">
+<img src="https://img.shields.io/badge/git-7C606B.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-7C606B.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
